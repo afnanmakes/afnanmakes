@@ -1,50 +1,64 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="MD. Afnan. Student from Bangladesh. I build things on the web." width="100%">
+  <img src="assets/terminal.svg" alt="Terminal. afnan@github:~$ whoami. md. afnan, student from bangladesh. cat motto.txt. everyone has a right to understand things for free. ls projects/. nyayota, world-dominion." width="100%">
 </p>
 
 <p align="center">
-  <em>Learning by shipping real projects, one repo at a time.</em>
+  <a href="#about">about</a> · <a href="#now">now</a> · <a href="#projects">projects</a> · <a href="#ideas">ideas</a> · <a href="#contact">contact</a>
 </p>
 
-<p align="center">
-  <a href="https://linktr.ee/afnan0356"><img src="https://img.shields.io/badge/Linktree-000000?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"></a>
-  <a href="mailto:mdafnan0356@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://youtube.com/@afnan0356"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/afnan_0356"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://t.me/afnan0356"><img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://x.com/mdafnan0356"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-</p>
+## about
 
-<p align="center">
-  <sub>Discord: mdafnan0356</sub>
-</p>
+hey, I'm Afnan. I'm a student from Bangladesh, and I build free things for the web.
 
----
+I care about one idea: everyone has a right to understand things for free. So I try to keep what I build free to use, with no paid APIs and no sign-ups unless they're really needed.
 
-## About
+I build with AI-assisted tools: I plan the project, review what comes out, and ship it. I've touched HTML/CSS, JavaScript, TypeScript, Python and Godot, and I haven't mastered any of them yet.
 
-I'm a student from Bangladesh, building projects to learn how software really gets made: planning it, building it, breaking it, and fixing it.
+## now
 
-I've tried several languages and haven't mastered any of them yet. So I'm focused on finishing real projects instead of collecting buzzwords. Everything on this profile is something I've actually built or used.
+```
+$ cat now.txt
+building    nyayota legal library
+continuing  world dominion
+planning    my personal website
+```
 
-## Currently learning / building with
+## projects
 
-`HTML/CSS` · `JavaScript` · `TypeScript` · `Python` · `Godot`
+```
+$ ls projects/
+nyayota/          live
+world-dominion/   in development
+```
 
-## Featured projects
+**[Nyayota](https://nyayota.vercel.app)** is a legal research platform that aims to make Bangladesh's laws easier to search and understand, with English and Bangla support and source-grounded AI answers. It's live, but the legal library is still growing, so coverage is not complete yet. Built with Next.js, React, TypeScript, Tailwind CSS and Gemini.
 
-<a href="https://nyayota.vercel.app">
-  <img src="assets/card-nyayota.svg" alt="Nyayota. Live. A legal research platform that aims to make Bangladesh's laws easier to search and understand. Next.js, React, TypeScript, Tailwind CSS, Gemini." width="100%">
-</a>
+**World Dominion** is a geopolitical strategy game about economy, diplomacy, military power and territory. Built with Godot 4.6 and GDScript. I'm continuing it here after moving from my previous GitHub account. No public build or repository link yet.
 
-<sub>Live and in active development. The legal library is still growing, so coverage is not complete yet.</sub>
+## ideas
 
-<img src="assets/card-world-dominion.svg" alt="World Dominion. In development. A geopolitical strategy game built around economy, diplomacy, military power, and territory. Godot 4.6, GDScript." width="100%">
+I keep a list of about 30 project ideas and build them one repo at a time. A few from the list:
 
-<sub>In development. I'm continuing this project here after moving from my previous GitHub account. No public build or repository link yet.</sub>
+```
+$ ls ideas/
+manga-reader/
+chess-ai/
+quran-site/
+hsc-notes/
+football-spin-game/
+trading-basics/
+```
 
-<sub>Both projects are built with an AI-assisted workflow.</sub>
+Just ideas for now. None of these are built yet.
 
----
+## contact
 
-<p align="center"><sub>Thanks for stopping by.</sub></p>
+- **Linktree:** [linktr.ee/afnan0356](https://linktr.ee/afnan0356)
+- **Email:** [mdafnan0356@gmail.com](mailto:mdafnan0356@gmail.com)
+- **YouTube:** [@afnan0356](https://youtube.com/@afnan0356)
+- **Instagram:** [@afnan_0356](https://www.instagram.com/afnan_0356)
+- **Telegram:** [@afnan0356](https://t.me/afnan0356)
+- **X:** [@mdafnan0356](https://x.com/mdafnan0356)
+- **Discord:** mdafnan0356
+
+<p align="center"><sub>thanks for stopping by.</sub></p>
